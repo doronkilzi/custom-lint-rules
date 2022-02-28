@@ -1,6 +1,6 @@
 {
   "name": "@kilzid/eslint-plugin-custom-lint-rules",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "custom lint rules that I wrote",
   "keywords": [
     "eslint",
