@@ -44,3 +44,8 @@ Then configure the rules you want to use under the rules section.
 * enforce-fluentui-react-lib
 
 
+## useful links for creating new rules
+
+* [Writing Custom Lint Rules for Your Picky Developers](https://flexport.engineering/writing-custom-lint-rules-for-your-picky-developers-67732afa1803)
+* [astexplorer](https://astexplorer.net/)
+* [https://eslint.org/docs/developer-guide/working-with-rules](https://eslint.org/docs/developer-guide/working-with-rules)
